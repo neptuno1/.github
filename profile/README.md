@@ -5,6 +5,7 @@
 ### Frontend services
 
 * [web](https://github.com/neptuno1/neptuno-frontend)
+* [mobile](https://github.com/neptuno1/app-mobile)
 
 ### Backend services
 * [users-service](https://github.com/neptuno1/users-service)
